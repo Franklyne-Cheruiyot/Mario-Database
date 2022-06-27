@@ -28,3 +28,18 @@ psql --username=freecodecamp dbname=mario_database
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 psql --username=freecodecamp dbname=mario_database
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git init
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd project
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd learn-relational-database-by-building-a-mario-database
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
